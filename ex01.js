@@ -19,6 +19,7 @@ var obj = {
     compétences : ['C1', 'C2', 'C3']
 }
 
+
 console.log('object :', typeof obj)
 
 if ('21' === 21) {
